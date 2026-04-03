@@ -1,12 +1,13 @@
 # ⚽ Football League Simulator
 
+
 A Python simulation of the English football league pyramid:
 
 **Premier League → Championship → League One → League Two**
 
 This project simulates multi-season league progression with promotion, relegation, club reputation dynamics and random real-world style events.
 
----
+![alt text](readme_image/QQ20260403-144900.png)
 
 ## ✨ Features
 
